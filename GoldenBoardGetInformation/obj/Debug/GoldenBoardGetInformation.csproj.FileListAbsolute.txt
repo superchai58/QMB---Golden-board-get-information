@@ -1,0 +1,9 @@
+D:\CHAI\Program\New Develop\GoldenBoardGetInformation\GoldenBoardGetInformation\bin\Debug\GoldenBoardGetInformation.exe.config
+D:\CHAI\Program\New Develop\GoldenBoardGetInformation\GoldenBoardGetInformation\bin\Debug\GoldenBoardGetInformation.exe
+D:\CHAI\Program\New Develop\GoldenBoardGetInformation\GoldenBoardGetInformation\bin\Debug\GoldenBoardGetInformation.pdb
+D:\CHAI\Program\New Develop\GoldenBoardGetInformation\GoldenBoardGetInformation\obj\Debug\GoldenBoardGetInformation.frmGoldenBoardGetInformation.resources
+D:\CHAI\Program\New Develop\GoldenBoardGetInformation\GoldenBoardGetInformation\obj\Debug\GoldenBoardGetInformation.Properties.Resources.resources
+D:\CHAI\Program\New Develop\GoldenBoardGetInformation\GoldenBoardGetInformation\obj\Debug\GoldenBoardGetInformation.csproj.GenerateResource.Cache
+D:\CHAI\Program\New Develop\GoldenBoardGetInformation\GoldenBoardGetInformation\obj\Debug\GoldenBoardGetInformation.exe
+D:\CHAI\Program\New Develop\GoldenBoardGetInformation\GoldenBoardGetInformation\obj\Debug\GoldenBoardGetInformation.pdb
+D:\CHAI\Program\New Develop\GoldenBoardGetInformation\GoldenBoardGetInformation\obj\Debug\GoldenBoardGetInformation.csprojResolveAssemblyReference.cache
